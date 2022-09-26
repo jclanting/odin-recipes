@@ -1,0 +1,19 @@
+* {
+    font-family: "Verdana", sans-serif;
+    background-color: rgb(36, 36, 36);
+    color: white;
+}
+
+.main {
+    text-align: center;
+}
+
+.list {
+    width: 40%;
+    position:relative;
+    left: 27.5%;
+}
+
+.link {
+    color: rgb(51,102,204);
+}
